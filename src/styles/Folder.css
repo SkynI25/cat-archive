@@ -1,0 +1,11 @@
+.folder {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    width: 100px;
+    height: 115px;
+    margin: 30px 20px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url('../resources/folder.png');
+}
